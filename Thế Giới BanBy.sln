@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Thế Giới BanBy", "Thế Giới BanBy\Thế Giới BanBy.vbproj", "{4EB90168-BD69-4A18-A99C-8FDF56C22FB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EB90168-BD69-4A18-A99C-8FDF56C22FB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EB90168-BD69-4A18-A99C-8FDF56C22FB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EB90168-BD69-4A18-A99C-8FDF56C22FB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EB90168-BD69-4A18-A99C-8FDF56C22FB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
