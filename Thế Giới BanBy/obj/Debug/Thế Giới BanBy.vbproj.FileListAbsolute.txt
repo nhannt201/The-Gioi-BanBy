@@ -1,0 +1,20 @@
+E:\The Gioi BanBy\Thế Giới BanBy\Thế Giới BanBy\bin\Debug\Thế Giới BanBy.exe.config
+E:\The Gioi BanBy\Thế Giới BanBy\Thế Giới BanBy\bin\Debug\Thế Giới BanBy.exe
+E:\The Gioi BanBy\Thế Giới BanBy\Thế Giới BanBy\bin\Debug\Thế Giới BanBy.pdb
+E:\The Gioi BanBy\Thế Giới BanBy\Thế Giới BanBy\bin\Debug\Thế Giới BanBy.xml
+E:\The Gioi BanBy\Thế Giới BanBy\Thế Giới BanBy\obj\Debug\Thế_Giới_BanBy.Resources.resources
+E:\The Gioi BanBy\Thế Giới BanBy\Thế Giới BanBy\obj\Debug\Thế Giới BanBy.vbproj.GenerateResource.Cache
+E:\The Gioi BanBy\Thế Giới BanBy\Thế Giới BanBy\obj\Debug\Thế Giới BanBy.exe
+E:\The Gioi BanBy\Thế Giới BanBy\Thế Giới BanBy\obj\Debug\Thế Giới BanBy.xml
+E:\The Gioi BanBy\Thế Giới BanBy\Thế Giới BanBy\obj\Debug\Thế Giới BanBy.pdb
+E:\The Gioi BanBy\Thế Giới BanBy\Thế Giới BanBy\obj\Debug\Thế_Giới_BanBy.load.resources
+E:\The Gioi BanBy\Thế Giới BanBy\Thế Giới BanBy\obj\Debug\Thế_Giới_BanBy.v1.resources
+E:\The Gioi BanBy\Thế Giới BanBy\Thế Giới BanBy\bin\Debug\Interop.WMPLib.dll
+E:\The Gioi BanBy\Thế Giới BanBy\Thế Giới BanBy\bin\Debug\AxInterop.WMPLib.dll
+E:\The Gioi BanBy\Thế Giới BanBy\Thế Giới BanBy\obj\Debug\Interop.WMPLib.dll
+E:\The Gioi BanBy\Thế Giới BanBy\Thế Giới BanBy\obj\Debug\AxInterop.WMPLib.dll
+E:\The Gioi BanBy\Thế Giới BanBy\Thế Giới BanBy\obj\Debug\Thế Giới BanBy.vbproj.ResolveComReference.cache
+E:\The Gioi BanBy\Thế Giới BanBy\Thế Giới BanBy\obj\Debug\Thế_Giới_BanBy.sang.resources
+E:\The Gioi BanBy\Thế Giới BanBy\Thế Giới BanBy\obj\Debug\Thế_Giới_BanBy.v2.resources
+E:\The Gioi BanBy\Thế Giới BanBy\Thế Giới BanBy\obj\Debug\Thế_Giới_BanBy.menu2.resources
+E:\The Gioi BanBy\Thế Giới BanBy\Thế Giới BanBy\obj\Debug\Thế Giới BanBy.vbprojResolveAssemblyReference.cache
